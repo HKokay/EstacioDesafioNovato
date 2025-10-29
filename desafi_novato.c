@@ -17,11 +17,7 @@ int main (){
     float area2;
     float pib2;
     int pon_turistico2;
-    //int idade;
-   // int matricula;
-   // float altura;
-  //  char nome[100];
-
+  
     printf("Desafio nível novato: \n\n");
     printf("Cadastro da primeira Carta: \n\n");
 
@@ -94,13 +90,6 @@ int main (){
     printf("Área: %f \n", area2);
     printf("PIB: %f \n", pib2);
     printf("Número de pontos turísticos: %i \n", pon_turistico2);
-
-
-
-   // printf("A matricula é: %d \n", matricula);
-   // printf("%s \n", nome);
-   // printf("%d \n", idade);
-  //  printf("%.2f \n", altura); 
 
 
 
